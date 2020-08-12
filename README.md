@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/WillianRod/WillianRod/b0ef170b31fabb07edd876e6adf589cf85a29c3a/assets/profile.svg)
 
 ```js
 const profile = {
