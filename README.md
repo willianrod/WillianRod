@@ -2,11 +2,11 @@
 
 ```js
 const profile = {
-  name: "Willian Rodrigues",
-  websiteURL: "https://willianrod.com",
-  email: "hi@willianrod.com",
-  aboutMe: "Currently studing Computer Science at Universidade Federal do Paraná, and working at"
-    + "Smarppy as a fullstack developer",
+  name: 'Willian Rodrigues',
+  websiteURL: 'https://willianrod.com',
+  email: 'hi@willianrod.com',
+  aboutMe: 'Currently studing Computer Science at Universidade Federal '
+    + 'do Paraná, and working at Smarppy as a fullstack developer',
   technologies: [
     'React',
     'React Native',
