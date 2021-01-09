@@ -1,10 +1,2 @@
-![](https://github.com/WillianRod/WillianRod/raw/master/assets/window.svg)
-
-
-Git stats                  |  Wakatime week stats
-:-------------------------:|:-------------------------:
-![Github readme stats](https://git-stats.willianrod.com/api?username=willianrod&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff&hide_border=true)  |  ![](https://git-stats.willianrod.com/api/wakatime?username=willianrod&hide_title=true&bg_color=ffffff&hide_border=true)
-
-
-
+![](https://awesome-profile.vercel.app/api/profile?wakatime=willianrod&github=willianrod&name=Willian&job=Fullstack%20developer&theme=dark&aboutMe=Lorem%20ipsum%20dolor%20sit%20amet,%20consectetur%20adipiscing%20elit.%20Praesent%20feugiat%20gravida%20tellus%20a%20eleifend.%20Curabitur%20mollis%20est%20neque,%20ac%20consectetur%20velit%20viverra%20eu.%20Donec%20imperdiet%20magna%20ac%20sem%20imperdiet,%20sit%20amet%20scelerisque%20arcu%20faucibus.%20Curabitur%20blandit%20arcu%20et%20ante%20tempus%20tempor%20eget%20nec%20nisl.%20Vivamus%20sit%20amet%20ullamcorper%20eros,%20eget%20efficitur%20ipsum.%20Donec%20rutrum%20auctor%20mauris%20non%20venenatis.%20Duis%20pulvinar,%20mi%20nec%20viverra%20volutpat,%20dui%20felis%20auctor%20metus,%20at%20vestibulum%20arcu%20metus%20ac%20lectus.)
 
