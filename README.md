@@ -2,4 +2,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/willianrod/WillianRod/assets/6539258/e947f5b0-50fa-4d41-87ef-69a3f23b1296');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/willianrod/WillianRod/assets/6539258/4a419d60-0978-424d-9325-0c57a554adcd');]{x0000}$}
